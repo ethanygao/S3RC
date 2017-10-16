@@ -16,3 +16,18 @@
 
 ### Contacts
 For questions about the code or the paper, feel free to contact me by Ethan.Y.Gao@gmail.com.
+
+### Bibtex
+If this code is helpful to your research, please consider citing our [paper](https://arxiv.org/abs/1609.03279) by:
+```
+@article{gao2017semi,
+  title={Semi-Supervised Sparse Representation Based Classification for Face Recognition With Insufficient Labeled Samples},
+  author={Gao, Yuan and Ma, Jiayi and Yuille, Alan L},
+  journal={IEEE Transactions on Image Processing},
+  volume={26},
+  number={5},
+  pages={2545--2560},
+  year={2017},
+  publisher={IEEE}
+}
+```
